@@ -1,4 +1,4 @@
-# Children-s-Piano
+Arduino-Piano
 
 The Piano App was originally developed for an Arduino board fit with buttons (for the keys), LED’s, and an OLED screen. 
 The project was developed for my Sophomore Capstone as a way to encourage children to experiment with musical instruments and become familiar with basic music theory. 
